@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @tegarferdigantara
-- 👀 I’m interested in Laravel & Flutter Framework
-- 🌱 I’m currently learning Laravel & Flutter Framework
-- 🌱 I'm currently Studying in Tanjungpura University
-
-<!---
-tegarferdigantara/tegarferdigantara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![readmebox](https://github.com/tegarferdigantara/tegarferdigantara/assets/115655820/b5c5ef85-fd59-498d-a92f-3b590234499d)
